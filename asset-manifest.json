@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todoredux1/static/css/main.2e07835e.chunk.css",
+    "main.js": "/todoredux1/static/js/main.06e0abeb.chunk.js",
+    "main.js.map": "/todoredux1/static/js/main.06e0abeb.chunk.js.map",
+    "runtime-main.js": "/todoredux1/static/js/runtime-main.6d5ecb42.js",
+    "runtime-main.js.map": "/todoredux1/static/js/runtime-main.6d5ecb42.js.map",
+    "static/css/2.62cbf21c.chunk.css": "/todoredux1/static/css/2.62cbf21c.chunk.css",
+    "static/js/2.0e2954e5.chunk.js": "/todoredux1/static/js/2.0e2954e5.chunk.js",
+    "static/js/2.0e2954e5.chunk.js.map": "/todoredux1/static/js/2.0e2954e5.chunk.js.map",
+    "static/js/3.15f72db3.chunk.js": "/todoredux1/static/js/3.15f72db3.chunk.js",
+    "static/js/3.15f72db3.chunk.js.map": "/todoredux1/static/js/3.15f72db3.chunk.js.map",
+    "index.html": "/todoredux1/index.html",
+    "static/css/2.62cbf21c.chunk.css.map": "/todoredux1/static/css/2.62cbf21c.chunk.css.map",
+    "static/css/main.2e07835e.chunk.css.map": "/todoredux1/static/css/main.2e07835e.chunk.css.map",
+    "static/js/2.0e2954e5.chunk.js.LICENSE.txt": "/todoredux1/static/js/2.0e2954e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d5ecb42.js",
+    "static/css/2.62cbf21c.chunk.css",
+    "static/js/2.0e2954e5.chunk.js",
+    "static/css/main.2e07835e.chunk.css",
+    "static/js/main.06e0abeb.chunk.js"
+  ]
+}
